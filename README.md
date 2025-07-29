@@ -48,13 +48,6 @@ Durante o desenvolvimento deste projeto, foram consolidados os seguintes conheci
 *   Implementação de listeners de eventos para capturar as interações do usuário com os elementos da página.
 *   Utilização do loop `for...of` para iterar sobre os elementos de um array de forma mais concisa e legível.
 
-## Próximos Passos
-
-*   Adicionar um sistema de pontuação para registrar o desempenho do jogador.
-*   Implementar diferentes níveis de dificuldade para tornar o jogo mais desafiador.
-*   Criar um ranking de jogadores para incentivar a competição.
-*   Adicionar animações e efeitos visuais para tornar o jogo mais atraente.
-
 ## Créditos
 
 *   Curso "Funções: criando uma missão sobre Inteligência Artificial" da Alura, ministrado por Fernanda Mascheti.
