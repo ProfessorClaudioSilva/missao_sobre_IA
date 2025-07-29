@@ -28,9 +28,9 @@ Este projeto consiste em um jogo de perguntas e respostas sobre Inteligência Ar
 
 ## Estrutura de Arquivos
 
-missao-ia/
-    |--- index.html
-    |--- style.css
+missao-ia/<br>
+    |--- index.html<br>
+    |--- style.css<br>
     |--- script.js
 
 *   `index.html`: Arquivo HTML principal que estrutura a página do jogo.
