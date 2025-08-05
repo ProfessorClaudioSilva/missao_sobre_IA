@@ -25,6 +25,7 @@ Este projeto consiste em um jogo de perguntas e respostas sobre Inteligência Ar
     git clone [URL do seu repositório]
     ```
 2.  Abra o arquivo `index.html` no seu navegador.
+3.  Ou acesse direto o por <a href="https://professorclaudiosilva.github.io/missao_sobre_IA/">aqui</a>.
 
 ## Estrutura de Arquivos
 
